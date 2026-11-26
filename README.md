@@ -13,6 +13,15 @@ MySQL 8 project containing 10 separate SQL scripts.
 8. 08_Stored_Procedures.sql
 9. 09_Triggers.sql
 10. 10_Transactions.sql
+11. Supplementary_Execution_Transcript_Queries.sql
+
+This file contains additional SQL commands from the MySQL execution
+transcript, including database creation, table creation, data insertion,
+project operations, and verification queries.
+
+Note: This is a supplementary reference file. Do not execute it again
+on an existing database because it repeats some creation and insertion
+commands.
 
 ## Important notes
 - Run files 01–03 once on a fresh database. Do not run the data insertion file again on a database that already contains the sample records, because duplicate-key errors may occur.
