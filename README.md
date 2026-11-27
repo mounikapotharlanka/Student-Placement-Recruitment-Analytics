@@ -1,4 +1,4 @@
-# Student Placement and Recruitment Analytics System
+# Student Placement and Recruitment Analytics 
 
 MySQL 8 project containing 10 separate SQL scripts.
 
